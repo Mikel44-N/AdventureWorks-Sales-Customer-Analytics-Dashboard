@@ -75,8 +75,8 @@ Features:
 - Smart narrative summary
 
 ## Customer Insights
-Customer analytics and segmentation.
 ![Customer_Detail](Customer_Detail.png)
+Customer analytics and segmentation.
 Features:
 - Unique customer metrics
 - Revenue per customer
