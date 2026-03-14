@@ -49,7 +49,7 @@ Key KPIs included:
 - Profit
 - Orders
 - Return Rate
-Features:
+# Features:
 - Revenue trend analysis
 - Top product performance
 - Monthly performance tracking
@@ -58,7 +58,7 @@ Features:
 ## Regional Sales Analysis
 ![Map_Visuals_for_Power_BI_desktop](Map_Visuals_for_Power_BI_desktop.png)
 Global sales performance visualization.
-Features:
+# Features:
 - Map visual displaying sales activity by region
 - Region filtering (Europe, North America, Pacific)
 - Geographic performance comparisons
@@ -66,7 +66,7 @@ Features:
 ## Product Detail Analysis
 ![Product_Detail](Product_Detail.png)
 Detailed analysis of product performance.
-Features:
+# Features:
 - Monthly orders vs target
 - Monthly revenue vs target
 - Monthly profit vs target
@@ -77,7 +77,7 @@ Features:
 ## Customer Insights
 ![Customer_Detail](Customer_Detail.png)
 Customer analytics and segmentation.
-Features:
+# Features:
 - Unique customer metrics
 - Revenue per customer
 - Top 100 customers ranking
