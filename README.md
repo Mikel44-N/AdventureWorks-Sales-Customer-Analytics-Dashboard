@@ -38,6 +38,7 @@ Example measures included:
 
 ## Dashboard Pages
 # Executive Overview
+![Executive Dashboard](Executive_Dashboard_for_Power_BI_desktop.png)
 Executive-level dashboard for monitoring key business metrics.
 Key KPIs included:
 •	Revenue
@@ -51,6 +52,7 @@ Features:
 •	Category comparisons
 
 ## Regional Sales Analysis
+![Map Visuals](Map_Visuals_For_Power_BI_desktop.png)
 Global sales performance visualization.
 Features:
 •	Map visual displaying sales activity by region
@@ -58,6 +60,7 @@ Features:
 •	Geographic performance comparisons
 
 ## Product Detail Analysis
+![Product Detail](Product_Detail.png)
 Detailed analysis of product performance.
 Features:
 •	Monthly orders vs target
@@ -68,6 +71,7 @@ Features:
 •	Smart narrative summary
 
 ## Customer Insights
+![Customer Detail](Customer_Datail.png)
 Customer analytics and segmentation.
 Features:
 •	Unique customer metrics
@@ -92,6 +96,37 @@ The project also includes technical documentation inside the Power BI model:
 •	Measure definitions
 •	Table metadata
 This documentation supports transparency and maintainability of the BI model.
+
+## Dataset
+The dataset consists of multiple CSV files containing information about:
+- Sales data
+- Returns data
+- Product categories lookup
+- Product Subcategory Lookup
+- Product lookup
+- Customer lookup
+- Calendar lookup
+- Territory lookup
+
+## Skills Demonstrated
+- Data Transformation (Power Query)
+- Data Modeling
+- DAX Calculations
+- Business Intelligence Reporting
+- Interactive Dashboard Design
+- Advanced Power BI Visualizations
+
+## Project Structure
+AdventureWorks-Sales-Customer-Analytics-Dashboard
+│
+├── AdventureWorks Report.pbix
+├── README.md
+│
+├── Screenshots
+│   ├── Executive Dashboard
+│   ├── Customer Detail
+│   ├── Product Detail
+│   ├── Map Visuals
 
 ## Outcome
 The final solution provides a multi-page interactive dashboard enabling users to analyze sales performance, explore customer behavior, evaluate product trends, and monitor key operational KPIs.
