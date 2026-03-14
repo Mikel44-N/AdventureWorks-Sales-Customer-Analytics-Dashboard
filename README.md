@@ -39,7 +39,7 @@ Example measures included:
 ## Dashboard Pages
 # Executive Overview
 Executive-level dashboard for monitoring key business metrics.
-# Key KPIs included:
+Key KPIs included:
 •	Revenue
 •	Profit
 •	Orders
@@ -85,7 +85,7 @@ The dashboard includes advanced Power BI analytical capabilities:
 •	Drill-down and drill-through navigation
 •	Bookmarks and navigation buttons
 •	Interactive slicers and filters
-Additional Model Documentation
+## Additional Model Documentation
 The project also includes technical documentation inside the Power BI model:
 •	Data dictionary
 •	Model information
