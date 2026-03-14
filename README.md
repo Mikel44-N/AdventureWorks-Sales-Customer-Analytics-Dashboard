@@ -37,9 +37,9 @@ Example measures included:
 •	Adjusted Profit
 
 ## Dashboard Pages
-Executive Overview
+# Executive Overview
 Executive-level dashboard for monitoring key business metrics.
-Key KPIs included:
+# Key KPIs included:
 •	Revenue
 •	Profit
 •	Orders
