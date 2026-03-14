@@ -56,7 +56,7 @@ Features:
 - Category comparisons
 
 ## Regional Sales Analysis
-![Map_Visuals_for_Power_BI_desktop](Map_Visuals_For_Power_BI_desktop.png)
+![Map_Visuals_for_Power_BI_desktop](Map_Visuals_for_Power_BI_desktop.png)
 Global sales performance visualization.
 Features:
 - Map visual displaying sales activity by region
@@ -75,8 +75,8 @@ Features:
 - Smart narrative summary
 
 ## Customer Insights
-![Customer_Detail](Customer_Datail.png)
 Customer analytics and segmentation.
+![Customer_Detail](Customer_Detail.png)
 Features:
 - Unique customer metrics
 - Revenue per customer
