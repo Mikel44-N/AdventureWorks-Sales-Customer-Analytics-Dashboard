@@ -1,4 +1,8 @@
 # AdventureWorks-Sales-Customer-Analytics-Dashboard
+## Download Report
+Download the Power BI report file:
+[AdventureWorks.pbix](AdventureWorks.pbix)
+
 ## Business Scenario
 In this project, I assumed the role of a Business Intelligence Analyst at AdventureWorks, a global manufacturer of cycling equipment and accessories.
 Management required an interactive analytics solution to monitor business KPIs, evaluate regional sales performance, analyze product trends, and identify high-value customers.
