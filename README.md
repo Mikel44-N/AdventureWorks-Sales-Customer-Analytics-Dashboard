@@ -118,22 +118,22 @@ The dataset consists of multiple CSV files containing information about:
 - Advanced Power BI Visualizations
 
 ## Project Structure
-AdventureWorks-Sales-Customer-Analytics-Dashboard
+# AdventureWorks-Sales-Customer-Analytics-Dashboard
 │
-├── AdventureWorks Report.pbix
-├── README.md
-│
-├── Screenshots
-│   ├── Executive Dashboard
-│   ├── Customer Detail
-│   ├── Product Detail
-│   ├── Map Visuals
+- ├── AdventureWorks Report.pbix
+- ├── README.md
+- │
+- ├── Screenshots
+- │   ├── Executive Dashboard
+- │   ├── Customer Detail
+- │   ├── Product Detail
+- │   ├── Map Visuals
 
 ## Outcome
 The final solution provides a multi-page interactive dashboard enabling users to analyze sales performance, explore customer behavior, evaluate product trends, and monitor key operational KPIs.
 This project demonstrates the full Power BI workflow:
-•	Data transformation
-•	Data modeling
-•	DAX calculations
-•	Interactive report design
-•	Advanced analytics visuals
+- Data transformation
+- Data modeling
+- DAX calculations
+- Interactive report design
+- Advanced analytics visuals
