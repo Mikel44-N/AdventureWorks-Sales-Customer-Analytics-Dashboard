@@ -5,96 +5,97 @@ Management required an interactive analytics solution to monitor business KPIs, 
 The dataset consisted of multiple raw CSV files containing information on transactions, returns, products, customers, and sales territories.
 
 ## Tools & Technologies
-•	Power BI Desktop
-•	Power Query
-•	DAX (Data Analysis Expressions)
-•	Data Modeling
-•	CSV Data Sources
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- CSV Data Sources
 
 ## Data Preparation
-•	Imported multiple CSV datasets from local storage
-•	Cleaned and transformed data using Power Query
-•	Added calculated columns and transformations
-•	Merged queries and prepared structured datasets for modelling
+- Imported multiple CSV datasets from local storage
+- Cleaned and transformed data using Power Query
+- Added calculated columns and transformations
+- Merged queries and prepared structured datasets for modelling
 
 ## Data Modeling
-•	Built a relational data model across multiple tables
-•	Created calculated measures using DAX
+- Built a relational data model across multiple tables
+- Created calculated measures using DAX
 Examples of functions used:
-•	CALCULATE
-•	DIVIDE
-•	ALL
-•	SWITCH
-•	FILTER
-•	Time intelligence functions
-•	Text functions
+- CALCULATE
+- DIVIDE
+- ALL
+- SWITCH
+- FILTER
+- Time intelligence functions
+- Text functions
 
 Example measures included:
-•	Profit
-•	Profit Target Gap
-•	Previous Month Profit
-•	90-Day Rolling Profit
-•	Adjusted Profit
+- Profit
+- Profit Target Gap
+- Previous Month Profit
+- 90-Day Rolling Profit
+- Adjusted Profit
 
 ## Dashboard Pages
 # Executive Overview
 ![Executive Dashboard](Executive_Dashboard_for_Power_BI_desktop.png)
 Executive-level dashboard for monitoring key business metrics.
 Key KPIs included:
-•	Revenue
-•	Profit
-•	Orders
-•	Return Rate
+- Revenue
+- Profit
+- Orders
+- Return Rate
 Features:
-•	Revenue trend analysis
-•	Top product performance
-•	Monthly performance tracking
-•	Category comparisons
+- Revenue trend analysis
+- Top product performance
+- Monthly performance tracking
+- Category comparisons
 
 ## Regional Sales Analysis
 ![Map Visuals](Map_Visuals_For_Power_BI_desktop.png)
 Global sales performance visualization.
 Features:
-•	Map visual displaying sales activity by region
-•	Region filtering (Europe, North America, Pacific)
-•	Geographic performance comparisons
+- Map visual displaying sales activity by region
+- Region filtering (Europe, North America, Pacific)
+- Geographic performance comparisons
 
 ## Product Detail Analysis
 ![Product Detail](Product_Detail.png)
 Detailed analysis of product performance.
 Features:
-•	Monthly orders vs target
-•	Monthly revenue vs target
-•	Monthly profit vs target
-•	Product-level trend analysis
-•	Adjustable price scenario analysis
-•	Smart narrative summary
+- Monthly orders vs target
+- Monthly revenue vs target
+- Monthly profit vs target
+- Product-level trend analysis
+- Adjustable price scenario analysis
+- Smart narrative summary
 
 ## Customer Insights
 ![Customer Detail](Customer_Datail.png)
 Customer analytics and segmentation.
 Features:
-•	Unique customer metrics
-•	Revenue per customer
-•	Top 100 customers ranking
-•	Customer segmentation by income level and occupation
-•	Customer performance tracking over time
+- Unique customer metrics
+- Revenue per customer
+- Top 100 customers ranking
+- Customer segmentation by income level and occupation
+- Customer performance tracking over time
 
 ## Advanced Analytics Features
 The dashboard includes advanced Power BI analytical capabilities:
-•	Key Influencers visual to identify drivers of price changes
-•	Decomposition Tree for hierarchical analysis
-•	Q&A visual enabling natural language queries
-•	Custom tooltips for contextual insights
-•	Drill-down and drill-through navigation
-•	Bookmarks and navigation buttons
-•	Interactive slicers and filters
+- Key Influencers visual to identify drivers of price changes
+- Decomposition Tree for hierarchical analysis
+- Q&A visual enabling natural language queries
+- Custom tooltips for contextual insights
+- Drill-down and drill-through navigation
+- Bookmarks and navigation buttons
+- Interactive slicers and filters
+  
 ## Additional Model Documentation
 The project also includes technical documentation inside the Power BI model:
-•	Data dictionary
-•	Model information
-•	Measure definitions
-•	Table metadata
+- Data dictionary
+- Model information
+- Measure definitions
+- Table metadata
 This documentation supports transparency and maintainability of the BI model.
 
 ## Dataset
